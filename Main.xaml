@@ -236,7 +236,7 @@
         <OutArgument x:TypeArguments="x:Int32">[myInt]</OutArgument>
       </Assign.To>
       <Assign.Value>
-        <InArgument x:TypeArguments="x:Int32">[5]</InArgument>
+        <InArgument x:TypeArguments="x:Int32">6</InArgument>
       </Assign.Value>
     </Assign>
   </Sequence>
